@@ -1,0 +1,12 @@
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\ModelExample.exe.config
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\ModelExample.exe
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\ModelExample.pdb
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\EntityFramework.dll
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\EntityFramework.xml
+C:\Users\jesse\source\repos\ModelExample\ModelExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jesse\source\repos\ModelExample\ModelExample\obj\Debug\ModelExample.csprojAssemblyReference.cache
+C:\Users\jesse\source\repos\ModelExample\ModelExample\obj\Debug\ModelExample.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\ModelExample\ModelExample\obj\Debug\ModelExample.csproj.CopyComplete
+C:\Users\jesse\source\repos\ModelExample\ModelExample\obj\Debug\ModelExample.exe
+C:\Users\jesse\source\repos\ModelExample\ModelExample\obj\Debug\ModelExample.pdb
